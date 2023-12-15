@@ -10,10 +10,10 @@ const ListItem = styled.li`
   margin-bottom: 8px;
 `;
 const Span = styled.span`
-  width: 150px;
+  width: 140px;
 `;
 const NumberSpan = styled.span`
-  width: 100px;
+  width: 120px;
 `;
 
 const Button = styled.button`

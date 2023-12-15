@@ -11,7 +11,7 @@ import * as yup from 'yup';
 import { useSelector } from 'react-redux';
 import { useDispatch } from 'react-redux';
 import { getContacts } from '../../redux/selectors';
-import { addContact } from '../../redux/contactsSlice';
+import { addContact } from '../../redux/operations';
 
 const initialValues = {
   name: '',
